@@ -11,3 +11,18 @@ To work in the backend I chose to work with Python. I wrote few lines in python 
 This is the basic flow which happens here.
 
 Note: As of now you need to run both the frondend(HTML) and backend(Python) code one after the other to achieve the requirement. Since I already mentioned that I'm a learner, I'm still learning to remove this manual interuption. Also Since my task is to code the backend, hoping that this would serve the purpose..
+
+## Pre-requisites to run the python code:
+- Install Python-Firebase library to access Firebase database using Python.
+  You can use the following commands to install python-firebase library on linux system,
+
+    sudo pip install requests
+    sudo pip install python-firebase
+
+- To run this code, I have used Python version 2.7. So while running the code on terminal better use 
+            
+                  python filename.py
+    instead of,   
+                  python3 filename.py
+
+Hope this helps....!
