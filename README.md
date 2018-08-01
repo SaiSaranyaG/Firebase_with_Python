@@ -16,13 +16,14 @@ Note: As of now you need to run both the frondend(HTML) and backend(Python) code
 - Install Python-Firebase library to access Firebase database using Python.
   You can use the following commands to install python-firebase library on linux system,
 
-    sudo pip install requests
-    sudo pip install python-firebase
+      sudo pip install requests
+      sudo pip install python-firebase
 
 - To run this code, I have used Python version 2.7. So while running the code on terminal better use 
             
                   python filename.py
-    instead of,   
+   instead of using,
+   
                   python3 filename.py
 
 Hope this helps....!
